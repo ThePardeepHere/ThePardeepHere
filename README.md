@@ -6,7 +6,7 @@ testable, efficient code by using best software development practices
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [thepardeephere.medium.com](thepardeephere.medium.com)
+- 📝 I regularly write articles on [https://thepardeephere.medium.com](thepardeephere.medium.com)
 
 - 💬 Ask me about **Webapp Development**
 
