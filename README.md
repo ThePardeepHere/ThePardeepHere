@@ -1,48 +1,55 @@
+# Pardeep Dhiman
 
-## 🚀 About Me
-A Full-stack Website developer in making with experience of 3 years in achieving the goal of company clients within a given Timeline with well-designed,
-testable, efficient code by using best software development practices
+Full Stack Software Engineer (backend-heavy)  
+Python · Django · FastAPI · React
 
+---
 
-- 🌱 I’m currently learning **React**
+## Summary
 
-- 📝 I regularly write articles on [thepardeephere.medium.com](https://thepardeephere.medium.com)
+Full stack software engineer with 5 years of professional experience building, migrating, and operating production web systems.
 
-- 💬 Ask me about **Webapp Development**
+I have delivered applications from scratch to production, worked extensively on legacy codebases, performed framework and data migrations, and supported systems under real user load. My work is primarily backend-focused, with frontend development where it is required for product delivery.
 
-- 📫 Reach me at **thepardeephere@gmail.com**
+This is a personal GitHub account. Most production work is maintained in official company repositories and cannot be shared publicly. Code here is selective and non-proprietary.
 
-- ⚡ This is my personal account , I am more active on company's official git accounts
+---
 
-## 💻 Tech Stack:
+## What I Work On
 
+- End-to-end ownership of web applications from design to production
+- Backend-driven systems used in real operational workflows
+- Greenfield development and legacy system modernization
+- Technology, framework, and database migrations
+- Data modeling across relational and non-relational databases
+- Building dashboards, internal tools, and operational interfaces
+- Integrations with CRMs, third-party platforms, and external APIs
+- Production support, performance tuning, and reliability fixes
+- Working independently, within teams, and in coordination roles
 
-> AboutMe.py
+---
 
-```python
-import requests
+## Technical Scope
 
-response = requests.post("https://google.com/search?q=what-you-do")
+- Python in production environments
+- Django, Django REST Framework, FastAPI, Flask
+- REST APIs with versioning and backward compatibility
+- React for dashboards and API-driven frontends
+- Relational and non-relational databases
+- Background processing, caching, and async workflows
+- Cloud deployments on AWS, Microsoft Azure, Google Cloud Platform, and DigitalOcean
+- Secure integrations including payment gateways and webhooks
+- Automation, scraping, and browser-based workflows
+- AI-assisted development used to speed up delivery, reviewed for correctness
 
-if response.status_code==200:
-    print(response.json())
+---
 
-```
- > Output
-```json
-{
-  "backEnd": {
-    "python": ["Django","Django Rest Framework","Flask"]
-  },
-  "frontEnd": ["HTML","CSS3","Bootstrap","Vanilla Js","Jquery"],
-  "databases": {
-    "rdmbs": ["PostgreSql","MySql","MariaDB","Oracle","Sqlite3"]
-  },
-  "DevOps": {
-    "webServers": ["Nginx","Docker","apache","gunicorn"],
-    "deployment": ["AWS EC2","AWS Elastic Beanstalk","Digital Ocean","Google Cloud","Cpanel","Heroku"]
-  },
-  "projectManagement": ["Jira","Confluence","Trello"],
-  "others": ["Celery","Reddis","AWS Services","Third Party API Integration","Payment Integration"]
-}
-```
+## Repositories
+
+Public repositories represent isolated components, experiments, and reduced patterns from real production systems. They do not reflect the full scope of my professional work.
+
+---
+
+## Contact
+
+Contact details are available on the profile.
