@@ -1,7 +1,7 @@
 # Pardeep Dhiman
 
-Full Stack Software Engineer (backend-heavy)  
-Python · Django · FastAPI · React
+Full Stack Software Engineer (Backend-heavy)  
+Python | Django | FastAPI | Flask | React
 
 ---
 
@@ -52,4 +52,5 @@ Public repositories represent isolated components, experiments, and reduced patt
 
 ## Contact
 
-Contact details are available on the profile.
+Email: thepardeephere@gmail.com  
+LinkedIn: https://www.linkedin.com/in/thepardeephere/
