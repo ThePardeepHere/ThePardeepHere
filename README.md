@@ -13,7 +13,8 @@ I work on projects at any stage of their lifecycle. This includes joining existi
 
 My experience includes building full fledged systems from scratch, working extensively on legacy codebases, and performing application and data migrations while keeping systems stable in production.
 
-As Python conventions state, "Simple is better than complex." I follow the same approach while creating solutions. I avoid unnecessary complexity, messy code, and over-engineering, and focus on clear and maintainable implementations.
+As Python conventions state ,"Simple is better than complex." I follow the same approach while creating solutions. I avoid unneccesary complexity,messy code,and over-engineering,and focus on clear and maintainable implementations.
+
 ---
 
 ## What I Do
